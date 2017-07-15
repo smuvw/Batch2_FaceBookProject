@@ -9,7 +9,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 	ChromeDriver driver= new ChromeDriver();
-		
+		System.out.println("hi");
 driver.get("https://jqueryui.com/resources/demos/slider/default.html");
 		
 	
