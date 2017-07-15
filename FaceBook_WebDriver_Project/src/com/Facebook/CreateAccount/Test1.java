@@ -10,6 +10,7 @@ public class Test1 {
 		
 	ChromeDriver driver= new ChromeDriver();
 		System.out.println("hi");
+		System.out.println("hi");
 driver.get("https://jqueryui.com/resources/demos/slider/default.html");
 		
 	
